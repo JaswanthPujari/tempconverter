@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    background-color: #003333;
+    background-size: cover;
+    text-align: center;
+    height:50vh;
+    width:50vw;
+    
+}
+.title{
+    color:white;
+    font-weight: bold ;
+}
+.btn{
+    background-color: blue;
+    color:white;
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+}
+label{
+    color:white;
+    font-weight: bold;
+}
